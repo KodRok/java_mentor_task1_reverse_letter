@@ -1,6 +1,7 @@
-package main.java.com.example;
+package com.example;
 
-import main.java.utils.StringUtil;
+import utils.StringUtil;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
